@@ -1,6 +1,6 @@
 {
-  "name": "tubby",
-  "start_url": "floating3.glb",
+  "name": "TVMan",
+  "start_url": "tvman.glb",
   "components": [
     {
       "key": "look",
